@@ -13,5 +13,11 @@ The project aims to analyze the Airbnb listings data from Boston to understand t
 1. calendar.csv - Availability and price of a listing for timeframe: September, 2016 - September, 2017
 2. listings.csv - Detailed description of a listing, this includes information about neighborhood, property type, # rooms, room type, # beds, bed type and # people that can be accomodated
 
+## Analysis
+The notebook in this repository contains the EDA, Modeling and other operations related to this analysis
+
+## Observations
+Observations from the analysis are summarized in this article -> https://medium.com/@bharathbommakanti/peek-into-airbnbs-pricing-strategy-for-boston-f091f56f516d
+
 ## Acknowledgements
 This dataset is part of Airbnb Inside, and the original source can be found at http://insideairbnb.com/get-the-data.html
